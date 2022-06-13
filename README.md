@@ -8,11 +8,11 @@ Here are the steps you need to do to run the project locally:
    ```
 2. Open the terminal in Project Directory and run the Commands:
    ```
-     npm install --legacy-peer-deps
+     npm install 
    ``` 
    After all the node modules gets downloaded, run:
    ```
-   npm start
+     npm start
    ```
 This will start the project in `localhost` server at port `3000` automatically.
 
