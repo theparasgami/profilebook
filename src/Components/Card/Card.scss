@@ -1,0 +1,27 @@
+.Card{
+    width: 50rem;
+    height: 40rem;
+    background-color: rgb(31, 53, 81);
+    z-index: 1000;
+    text-align: center;
+    box-shadow: 0 3px 10px black;
+    
+    .fullName{
+        padding: 5%;
+        font-size: 4rem;
+        color: white;
+        font-family: monospace ;
+
+    }
+    .Avatar img{
+        border: 2px solid rgb(11, 21, 65);
+        padding: 10px;
+        width: 20rem;
+        height: 18rem;
+    }
+    .Email{
+         font-size: 3rem;
+         margin-top: 3rem;
+         color: beige;
+    }
+}
